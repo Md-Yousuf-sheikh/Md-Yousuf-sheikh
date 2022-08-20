@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Yousuf sheikh</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [Drone World](https://drone-world-2022.web.app/)
+- 🔭 I’m currently working on [Medlinkjobs](https://dev.medlinkjobs.com/)
 
-- 🌱 I’m currently learning **redux , 3d animation ,react native**
+- 🌱 I’m currently learning **C , C++  **
 
 - 👨‍💻 All of my projects are available at [https://fyousuf-104e8.web.app/](https://fyousuf-104e8.web.app/)
 
