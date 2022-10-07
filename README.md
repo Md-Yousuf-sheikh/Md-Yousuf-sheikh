@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Medlinkjobs](https://dev.medlinkjobs.com/)
 
-- 🌱 I’m currently learning **C , C++  **
+- 🌱 I’m currently learning **Data structure, python **
 
 - 👨‍💻 All of my projects are available at [https://fyousuf-104e8.web.app/](https://fyousuf-104e8.web.app/)
 
