@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Yousuf sheikh</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
--    Junior Software engineer at Beatnik Technology Ltd.
-- 🔭 Working experience  Junior Software engineer at Mimothi Solutions Pvt. Ltd. [Medlinkjobs](https://dev.medlinkjobs.com/)
-
 - 🌱 I’m currently learning **Data structure, python **
 
 - 👨‍💻 All of my projects are available at [Portfolio Web Site](https://fyousuf-104e8.web.app/)
 
 - 📫 How to reach me **sheikhyousuf702@gmail.com**
-
-- 📄  [Resume](https://docs.google.com/document/d/1z8L6-Ic4OI0pdbUw3uCLIe-FUnMWFwasf_3QDuHtZkQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
