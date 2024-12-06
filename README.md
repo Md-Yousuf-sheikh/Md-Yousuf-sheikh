@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Yousuf sheikh</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **Data structure, python **
-
-- 👨‍💻 All of my projects are available at [Portfolio Web Site](https://fyousuf-104e8.web.app/)
 
 - 📫 How to reach me **sheikhyousuf702@gmail.com**
 
