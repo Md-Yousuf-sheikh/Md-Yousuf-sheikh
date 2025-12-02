@@ -67,5 +67,5 @@ Pick And Ride (Car Rental Service): Designed a car rental application with **Str
 
 <h2 align="center">🗣️ Spoken Languages:</h2>
 <p align="center">
-  **English, Bangla, Hindi**
+  English, Bangla, Hindi
 </p>
