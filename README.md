@@ -60,7 +60,7 @@ Pick And Ride (Car Rental Service): Designed a car rental application with **Str
 <h2 align="center">📊 My GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-yousuf-sheikh&theme=radical" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-yousuf-sheikh&theme=radical" alt="GitHub Streak" width="50%" />
 </p>
 
 ---
