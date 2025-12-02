@@ -2,7 +2,7 @@
 <h3 align="center">Experienced React Native Developer | 3+ Years Expertise</h3>
 
 <p align="center">
-  A highly experienced React Native Developer focusing on building high-performance, cross-platform applications for iOS and Android using React Native and Expo. Proven track record in optimizing app performance, delivering seamless user experiences, and successfully contributing to 14+ projects.
+  A highly experienced React Native Developer focusing on building high-performance, cross-platform applications for iOS and Android using React Native and Expo. Proven track record in optimizing app performance, delivering seamless user experiences, and successfully contributing to 20+ projects.
 </p>
 
 ---
